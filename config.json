@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpender",
+        "uuid": 21847335,
+        "checksum": "h80iyj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
